@@ -1,0 +1,135 @@
+.AniBg-1 {
+	border:solid 10px #4ecdc4;
+}
+
+.AniBg-2 {
+	background-color: #83fff6;
+}
+
+.Window-Bg {
+	background-color: #f2f2f2;
+	border:solid 1px #f5f5f5;
+	box-shadow: 0 0 10px #ccc;
+}
+
+.Header-Bg {
+	background-color: #4ecdc4;
+}
+
+.Header-Text-Color {
+	color: #fff;
+}
+
+.Top-Menu-Bg {
+	background-color: #fff;
+}
+
+.Top-Menu-Text ul li a {
+	color: #2a2a2a;
+}
+
+.Top-Menu-Text ul li a:hover {
+	color: #2a2a2a;
+	background-color: #e5e5e5;
+}
+
+.Bottm-Input-Box-Bg {
+	border-top:solid 1px #98f3ed;
+	background-color: #ffffff;
+}
+
+.Bottom-InPut-Box {
+	color:#2f2f2f;
+	background-color: #ffffff;
+}
+
+::placeholder { 
+  color: #a8a8a8;
+}
+
+:-ms-input-placeholder { 
+	 color: #a8a8a8;
+}
+
+::-ms-input-placeholder { 
+   color: #a8a8a8;
+}
+
+.Chat-Out-Message {
+	color: #2f2f2f;
+	background-color: #ffffff;
+	border:solid 1px #c8fffb;
+}
+
+.Chat-In-Message {
+	color: #ffffff;
+	background-color: #1a535c;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: transparent; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #e5e5e5; 
+   border-radius: 15px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #ccc;
+}
+
+/* width ---------*/
+::-moz-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-moz-scrollbar-track {
+  background: transparent; 
+}
+ 
+/* Handle */
+::-moz-scrollbar-thumb {
+  background: #e5e5e5; 
+   border-radius: 15px;
+}
+
+/* Handle on hover */
+::-moz-scrollbar-thumb:hover {
+  background: #ccc;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #ccc;
+}
+
+/* width ---------*/
+::-ms-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-ms-scrollbar-track {
+  background: transparent; 
+}
+ 
+/* Handle */
+::-ms-scrollbar-thumb {
+  background: #e5e5e5; 
+   border-radius: 15px;
+}
+
+/* Handle on hover */
+::-ms-scrollbar-thumb:hover {
+  background: #ccc;
+}
