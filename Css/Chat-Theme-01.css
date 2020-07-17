@@ -12,6 +12,12 @@
 	box-shadow: 0 0 10px #ccc;
 }
 
+.Window-Home {
+	background-color: #fff;
+	border:solid 1px #f5f5f5;
+	box-shadow: 0 0 10px #ccc;
+}
+
 .Header-Bg {
 	background-color: #4ecdc4;
 }
@@ -133,3 +139,34 @@
 ::-ms-scrollbar-thumb:hover {
   background: #ccc;
 }
+
+.Home-Links-Bg {
+	background-color: #ffffff;
+	border:solid 1px #c8fffb;
+	box-shadow: 0 0 10px #ccc;
+}
+
+.Home-Links-Text a {
+	color:#2f2f2f;
+}
+
+.Home-Links-Text a:hover {
+	color:#2f2f2f;
+}
+
+.Home-Links-Text .Home-Icon-Bg {
+	background-color: #4ecdc4;
+}
+
+.Home-Links-Text:hover .Home-Icon-Bg {
+	background-color: #1a535c;
+}
+
+.Home-Links-Text .Home-Link-Hd {
+	color: #2f2f2f;
+}
+
+.Home-Links-Text:hover .Home-Link-Hd {
+	color:#4ecdc4;
+}
+
